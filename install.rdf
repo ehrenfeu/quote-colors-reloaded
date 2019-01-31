@@ -5,13 +5,13 @@
     <em:id>{B274D460-4DF9-454c-AC69-CA71398D7498}</em:id>
     <em:type>2</em:type>
     <em:name>Quote Colors</em:name>
-    <em:version>0.3.1-let-fixed</em:version>
+    <em:version>0.3.2</em:version>
     <em:targetApplication>
       <!-- Thunderbird -->
       <Description>
         <em:id>{3550f703-e582-4d05-9a08-453d09bdfdc6}</em:id>
         <em:minVersion>2.0</em:minVersion>
-        <em:maxVersion>3.0.*</em:maxVersion>
+        <em:maxVersion>60.*</em:maxVersion>
       </Description>
     </em:targetApplication>
     <em:targetApplication>
@@ -24,6 +24,7 @@
     </em:targetApplication>
     <em:description>Configure text and background colors of quotes in mail and news messages.</em:description>
     <em:creator>Malte Rücker</em:creator>
+    <em:contributor>Niko Ehrenfeuchter</em:contributor>
     <em:translator>Tomas Brabenec (Czech)</em:translator>
     <em:translator>Jørgen Rasmussen (Danish)</em:translator>
     <em:translator>Alexander Ihrig (German)</em:translator>
